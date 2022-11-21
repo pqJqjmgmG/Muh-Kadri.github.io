@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #ecece2;
+}
+
+section {
+  padding-top: 14rem;
+}
+
+.sosial-media {
+  padding-top: 14rem;
+}
+
+footer {
+  background-color: #333;
+  padding-top: 14rem;
+  padding: 44px;
+  text-align: center;
+}
+
+footer small {
+  color: #fff;
+}
